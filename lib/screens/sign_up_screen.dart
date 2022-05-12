@@ -223,6 +223,6 @@ class _SignUpScreenState extends State<SignUpScreen> {
           // transitioning to sign up
         ]),
       ),
-    )); //gotrid of ) for childscroll
+    )); //gotrid of  ) for childscroll
   }
 }
