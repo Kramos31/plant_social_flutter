@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1001303176624",
+    "project_id": "plant-social-a2177",
+    "storage_bucket": "plant-social-a2177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001303176624:android:d25e42b1403f27d1ce1275",
+        "android_client_info": {
+          "package_name": "com.example.plant_social_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001303176624-ottf4geauob9k7eh0opvbakvlq8vuhg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGVLQc8hgyofsqVXJKZVudjlW9VnanIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001303176624-ottf4geauob9k7eh0opvbakvlq8vuhg3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001303176624-83bmii7cclrae65u8gvbgci32mq6ult0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantSocialFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
